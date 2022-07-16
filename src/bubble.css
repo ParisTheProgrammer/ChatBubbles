@@ -13,7 +13,9 @@
 
 .bubble-content {
   margin-right: 25%;
-  background-color: #eee;
+  /*background-color: #eee;*/
+  background-color: #7272ff;
+  color: white;
   position: relative;
 }
 
@@ -26,7 +28,8 @@
   left: -12px;
   height: 26px;
   width: 30px;
-  background: #eee;
+  /*background: #eee;*/
+  background: #7272ff;
   border-bottom-right-radius: 20px;
 }
 
